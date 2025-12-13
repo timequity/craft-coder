@@ -75,7 +75,9 @@
         "./infra/ci-cd-pipelines",
         "./infra/cost-optimization",
         "./infra/security-hardening",
-        "./infra/disaster-recovery"
+        "./infra/disaster-recovery",
+        "./openai-api",
+        "./openai-sdk"
       ],
       "agents": [
         "./agents/code-reviewer.md",
